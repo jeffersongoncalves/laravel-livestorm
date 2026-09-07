@@ -1,8 +1,4 @@
-<div class="filament-hidden">
-
-<!-- banner: art/jeffersongoncalves-laravel-livestorm.png (generate via portfolio-banner skill) -->
-
-</div>
+![Laravel Livestorm](banners/laravel-livestorm.png)
 
 # Laravel Livestorm
 
