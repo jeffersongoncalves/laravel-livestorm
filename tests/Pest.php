@@ -1,3 +1,5 @@
 <?php
 
-uses(Jeffersongoncalves\LaravelLivestorm\Tests\TestCase::class)->in('Feature', 'Unit');
+use JeffersonGoncalves\Livestorm\Tests\TestCase;
+
+uses(TestCase::class)->in('Feature', 'Unit');
